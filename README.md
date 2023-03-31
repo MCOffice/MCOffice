@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MC</h1>
+<<h1 align="center">Hi 👋, I'm MC</h1>
 <h3 align="center">Hi I'm a beginner programmer who hasn't continued my studies. I'm someone who hasn't graduated, but I like studying through the online world. I learned it from this way. I'm not very good at anything It's just that I'm a person who likes programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcoffice&label=Profile%20views&color=0e75b6&style=flat" alt="mcoffice" /> </p>
@@ -15,8 +15,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcoffice&show_icons=true&locale=en&layout=compact" alt="mcoffice" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcoffice&show_icons=true&locale=en" alt="mcoffice" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcoffice&" alt="mcoffice" /></p>
 
 
 <!--
