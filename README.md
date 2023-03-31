@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcoffice&label=Profile%20views&color=0e75b6&style=flat" alt="mcoffice" /> </p>
 
-- 🔭 I’m currently working on [MCS TEAM PROJECT](https://mcoffice.github.io/home/)/)
+- 🔭 I’m currently working on [MCS TEAM PROJECT](https://mcoffice.github.io/home/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
