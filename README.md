@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MC</h1>
-<h3 align="center">Hi I'm a beginner programmer who hasn't continued my studies. I'm someone who hasn't graduated, but I like studying through the online world. I learned it from this way. I'm not very good at anything It's just that I'm a person who likes programming.</h3>
+<h3 align="center">Hi, I'm a beginner programmer. I'm an ordinary person who likes to program. But I like to study through the online world. I learned from this way and learn by yourself I'm not very good at anything Just someone who likes programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcoffice&label=Profile%20views&color=0e75b6&style=flat" alt="mcoffice" /> </p>
 
